@@ -11,5 +11,5 @@ demos  - contains demos showing use and configuration of RP2 PIO
 vscode 2024 \
 [micropython](https://github.com/paulober/MicroPico) extension by paulober \
 python for vscode \
-[micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) for the Pi Pico \
+[micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) for the Pi Pico
 
